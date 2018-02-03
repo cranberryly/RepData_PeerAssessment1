@@ -2,7 +2,7 @@
 title: "Reproducible Research Course Project Week2"
 author: "Yue Li"
 date: "January 29, 2018"
-output: md_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
